@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: auction-lab
+
+server:
+  port: 8105
